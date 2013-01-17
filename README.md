@@ -42,4 +42,4 @@ No envía a Movistar SV
 Mensajitos.php © 2006 Mario Enrique Gómez Argueta
 xMensajitos.php © 2009 Carlos Vladimir Hidalgo Durán
 L-Mensajitos.php © 2010-2013 Colaboradores de Listasal.
-El uso y distribución de Mensajitos.php, xMensajitoss.php y L-Mensajitos.php permitido y regulado por la licencia GNU/GPL 2.0 o posterior.
+El uso y distribución de Mensajitos.php, xMensajitos.php y L-Mensajitos.php permitido y regulado por la licencia GNU/GPL 2.0 o posterior.
