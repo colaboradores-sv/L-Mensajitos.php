@@ -1,6 +1,10 @@
 ﻿# L-Mensajitos.php 
 L-Mensajitos.php facilita enviar mensajes de texto a los celulares de El Salvador, a través de los formularios web de los operadores de telefonía o por medio del correo electrónico del teléfono celular.
 
+## ¿Deseas enviar mensajitos?
+> Aquí encontrarás la información técnica de L-Mensajitos.php. 
+> Si lo que quieres es enviar un mensaje, puedes hacerlo desde  http://sms.listasal.info :)
+
 ## Historia
 En febrero de 2005 Mario Enrique Gómez Argueta (mxgxw) publicó en una aplicación para enviar mensajes a celulares de El Salvador desde Internet. Aunque Mensajitos.php comenzó como un proyecto personal, este se popularizó rápidamente. Posteriormente Vladimir Hidalgo (vlad) de la Fundación TodoSV continuó contribuyendo al proyecto bajo el nombre xMensajitos.php. Actualmente Listasal y otros sitios salvadoreños alojan versiones derivadas de esta aplicación para facilitar la comunicación entre millones de salvadoreños. L-Mensajitos.php es la versión utilizada por Listasal, encuentra más información en la página web del proyecto: http://www.listasal.info/desarrolladores/l-mensajitos
 
@@ -9,7 +13,7 @@ En febrero de 2005 Mario Enrique Gómez Argueta (mxgxw) publicó en una aplicaci
 2. Procesa el mensaje via formulario web o correo electrónico según sea el caso.
 
 ## Estado del servicio
-- Claro SV: Funciona, pero Claro permite un # limitado de mensajes por direción IP.
+- Claro SV: Funciona, pero el operador permite un número limitado de mensajes por direción IP.
 - Digicel SV: Funciona
 - Movistar SV: No soportado, pero disponible desde Listasal.info
 - Red: No ha sido probado.
